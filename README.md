@@ -60,3 +60,12 @@ The head of the library started by explaining the operating environment of the l
 ##### SHELF
 - Shelf ID
 - Shelf Description (A to Z)
+
+### Database Analyst User Requirement Interpretation
+1. A book can be authored by many authors, and an author can write many books (Many-to-Many relationship).
+2. A book is published by exactly one publisher, but a publisher can publish many books (Many-to-One relationship).
+3. A student can borrow many books, and a book can be borrowed by exactly one student (One-to-Many relationship for students).
+4. An employee can borrow at most one book, and a book can be borrowed by exactly one employee (One-to-One relationship for employees).
+5. A book can at the most be on one shelf and at the least one shelf , a shelf can at the most have many books and at the least zero books. (one-to-many relationship).
+
+### The construction of the database using Draw.io Workbench Model Editor
