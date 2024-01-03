@@ -70,3 +70,8 @@ The head of the library started by explaining the operating environment of the l
 
 ### The construction of the database using Draw.io Workbench Model Editor
 ![](LibraryDatabaseERDiagram2.jpg)
+
+### Creation of the database
+![](1.PNG)
+
+![](2.PNG)
