@@ -10,8 +10,20 @@ Note: All values are fictitious and were created with no organization in mind.
 ### User Requirements 
 Requirement gathering process was conducted with the staff who worked in the library to determine their expectations from the database. 
 The head of the library started by explaining the operating environment of the library as follows;
-- A book can be authored at the most by many authors and at the least by one author. An author at the most can author many books and at the least can author one book. 
-- A book can at the most be published by one publisher and at the least be published by one publisher (meaning, a book is published by exactly one publisher). A publisher can publish at the most many books and at the least one book. 
-- A student at the most can borrow many books and at the least zero books (this is because some students never borrow books). A book at the most is borrowed by one student and at the least by one student (meaning, a book is borrowed by exactly one student). 
-- An employee can at the most borrow one book and at the least zero books (this is because some employees never borrow books). A book at the most is borrowed by one employee and at the least by one employee (meaning, a book is borrowed by exactly one employee).
+- There are multiple books authored by the same author in our collection.
+- Authors may contribute to a single book or multiple books in our library.
+- Some book publishers have multiple titles from their catalog featured in our library.
+- Students have the option to borrow multiple books simultaneously, whereas employees are limited to borrowing one book at a time.
+- Borrowing is restricted to one person per book, preventing group or team borrowings.
+
+#### Major Reports Required:
+Daily Reports:
+- Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses of the borrowers.
+Monthly Stock Inventory:
+- At the end of each month, a comprehensive stock inventory is conducted, encompassing all books in the library, whether currently borrowed or on the shelf.
+Yearly Publisher Report:
+- An annual report is compiled at the end of the academic year, providing information on all the publishers associated with the books in our library.
+- An annual report is compiled at the end of the academic year, providing information on all the borrowed books.
+Shelf Organization:
+- Our books are systematically arranged based on shelf location for ease of access and organization.
 
