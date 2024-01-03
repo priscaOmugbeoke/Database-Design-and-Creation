@@ -100,3 +100,8 @@ The head of the library started by explaining the operating environment of the l
 ![](10.PNG)
 
 ![](11.PNG)
+
+#### Author Table
+- [See](12.PNG) create and insert query.
+- [See](13.PNG) Author entity and attributes.
+- [See](14.PNG) new records insert. 
