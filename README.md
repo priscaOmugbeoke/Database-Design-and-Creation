@@ -69,4 +69,4 @@ The head of the library started by explaining the operating environment of the l
 5. A book can at the most be on one shelf and at the least one shelf , a shelf can at the most have many books and at the least zero books. (one-to-many relationship).
 
 ### The construction of the database using Draw.io Workbench Model Editor
-![](Library-Database-ER-Diagram_.drawio.png)
+![](Library Database ER Diagram_.drawio.png)
