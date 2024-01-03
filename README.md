@@ -71,7 +71,9 @@ The head of the library started by explaining the operating environment of the l
 ### The construction of the database using Draw.io Workbench Model Editor
 ![](LibraryDatabaseERDiagram2.jpg)
 
+
 ### Creation of the Database
+
 ![](1.PNG)
 
 ![](2_.PNG)
@@ -79,7 +81,13 @@ The head of the library started by explaining the operating environment of the l
 
 
 ### Creation of the Database Entities Attributes and Insertion of Values
-see raw Sql codes used here
+###### see raw sql codes used [here](LibraryDatabaseProjectSql_Codes.txt)
+
+##### Student Table
+
+
 ![](6.PNG)
+
 ![](7.PNG)
+
 ![](8.PNG)
