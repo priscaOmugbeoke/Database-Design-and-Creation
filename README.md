@@ -31,3 +31,31 @@ The head of the library started by explaining the operating environment of the l
 - Our books are systematically arranged based on shelf location for ease of access and organization.
 
 ### Entities and Attributes 
+#### BOOK
+- Book ID
+- Book Name
+- No of Pages
+- ISBN Number
+#### AUTHOR
+- Author ID
+- Author Name
+- Author Address
+- Author Email 
+#### PUBLISHER
+- Publisher ID
+- Publisher Name
+- Publisher Address
+- Publisher Email 
+##### STUDENT
+- Student ID
+- Student Name
+- Student Address
+- Student Email
+#### EMPLOYEE
+- Employee ID
+- Employee Name
+- Employee Address
+- Employee Email
+#### SHELF
+- Shelf ID
+- Shelf Description (A to Z)
