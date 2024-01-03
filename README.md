@@ -74,4 +74,4 @@ The head of the library started by explaining the operating environment of the l
 ### Creation of the database
 ![](1.PNG)
 
-![](2.PNG)
+![](2_.PNG)
