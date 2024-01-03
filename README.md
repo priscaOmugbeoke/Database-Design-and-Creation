@@ -79,7 +79,7 @@ The head of the library started by explaining the operating environment of the l
 
 
 ### Creation of the Database Entities Attributes and Insertion of Values
-see raw Sql codes used here [](1.PNG)
+see raw Sql codes used here
 ![](6.PNG)
 ![](7.PNG)
 ![](8.PNG)
