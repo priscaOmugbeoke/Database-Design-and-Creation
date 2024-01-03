@@ -86,8 +86,17 @@ The head of the library started by explaining the operating environment of the l
 #### Student Table
 
 
-#### ![](6.PNG)
+![](6.PNG)
 
 ![](7.PNG)
 
 ![](8.PNG)
+
+
+#### Employee Table
+
+![](9.PNG)
+
+![](10.PNG)
+
+![](11.PNG)
