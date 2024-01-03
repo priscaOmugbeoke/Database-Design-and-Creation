@@ -83,10 +83,10 @@ The head of the library started by explaining the operating environment of the l
 ### Creation of the Database Entities Attributes and Insertion of Values
 ###### see raw sql codes used [here](LibraryDatabaseProjectSql_Codes.txt)
 
-##### Student Table
+#### Student Table
 
 
-![](6.PNG)
+#### ![](6.PNG)
 
 ![](7.PNG)
 
