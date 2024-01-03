@@ -16,46 +16,46 @@ The head of the library started by explaining the operating environment of the l
 - Students have the option to borrow multiple books simultaneously, whereas employees are limited to borrowing one book at a time.
 - Borrowing is restricted to one person per book, preventing group or team borrowings.
 
-#### Major Reports Required:
-##### Daily Reports:
+##### Major Reports Required:
+###### Daily Reports:
 - Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses of the borrowers.
   
-##### Monthly Stock Inventory:
+###### Monthly Stock Inventory:
 - At the end of each month, a comprehensive stock inventory is conducted, encompassing all books in the library, whether currently borrowed or on the shelf.
   
-#### Yearly Publisher Report:
+###### Yearly Publisher Report:
 - An annual report is compiled at the end of the academic year, providing information on all the publishers associated with the books in our library.
 - An annual report is compiled at the end of the academic year, providing information on all the borrowed books.
 
-#### Shelf Organization:
+###### Shelf Organization:
 - Our books are systematically arranged based on shelf location for ease of access and organization.
 
 ### Entities and Attributes 
-#### BOOK
+##### BOOK
 - Book ID
 - Book Name
 - No of Pages
 - ISBN Number
-#### AUTHOR
+##### AUTHOR
 - Author ID
 - Author Name
 - Author Address
 - Author Email 
-#### PUBLISHER
+##### PUBLISHER
 - Publisher ID
 - Publisher Name
 - Publisher Address
 - Publisher Email 
-##### STUDENT
+###### STUDENT
 - Student ID
 - Student Name
 - Student Address
 - Student Email
-#### EMPLOYEE
+##### EMPLOYEE
 - Employee ID
 - Employee Name
 - Employee Address
 - Employee Email
-#### SHELF
+##### SHELF
 - Shelf ID
 - Shelf Description (A to Z)
