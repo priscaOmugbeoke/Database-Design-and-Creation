@@ -81,7 +81,7 @@ The head of the library started by explaining the operating environment of the l
 
 
 ### Creation of the Database Entities Attributes and Insertion of Values
-###### see raw sql codes used [here](LibraryDatabaseProjectSql_Codes.txt)
+###### See raw sql codes used [here](LibraryDatabaseProjectSql_Codes.txt)
 
 #### Student Table
 
@@ -103,5 +103,21 @@ The head of the library started by explaining the operating environment of the l
 
 #### Author Table
 - [See](12.PNG) create and insert query.
-- [See](13.PNG) Author entity and attributes.
-- [See](14.PNG) new records insert. 
+- [See](13.PNG) entity and attributes.
+- [See](14.PNG) new records insert.
+
+#### Publisher Table
+- [See](15.PNG) create and insert query.
+- [See](16.PNG) entity and attributes.
+- [See](17.PNG) new records insert. 
+
+
+#### Book Table
+- [See](18.PNG) create and insert query.
+- [See](19.PNG) entity and attributes.
+- [See](20.PNG) new records insert.
+
+#### Book_Auth Table
+- [See](21.PNG) create and insert query.
+- [See](22.PNG) entity and attributes.
+- [See](23.PNG) new records insert.
