@@ -27,3 +27,4 @@ Yearly Publisher Report:
 Shelf Organization:
 - Our books are systematically arranged based on shelf location for ease of access and organization.
 
+### Entities and Attributes 
