@@ -6,6 +6,7 @@ Note: All values are fictitious and were created with no organization in mind.
 ### Tools Used
 - The DBMS used is MariaDB Server.
 - The user interface used is HeidiSQL.
+- I used Draw.io for the ER diagram model.
 
 ### User Requirements 
 Requirement gathering process was conducted with the staff who worked in the library to determine their expectations from the database. 
