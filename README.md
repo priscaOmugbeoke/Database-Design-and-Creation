@@ -17,14 +17,17 @@ The head of the library started by explaining the operating environment of the l
 - Borrowing is restricted to one person per book, preventing group or team borrowings.
 
 #### Major Reports Required:
-Daily Reports:
+##### Daily Reports:
 - Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses of the borrowers.
-Monthly Stock Inventory:
+  
+##### Monthly Stock Inventory:
 - At the end of each month, a comprehensive stock inventory is conducted, encompassing all books in the library, whether currently borrowed or on the shelf.
-Yearly Publisher Report:
+  
+#### Yearly Publisher Report:
 - An annual report is compiled at the end of the academic year, providing information on all the publishers associated with the books in our library.
 - An annual report is compiled at the end of the academic year, providing information on all the borrowed books.
-Shelf Organization:
+
+#### Shelf Organization:
 - Our books are systematically arranged based on shelf location for ease of access and organization.
 
 ### Entities and Attributes 
