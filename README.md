@@ -124,7 +124,7 @@ The head of the library started by explaining the operating environment of the l
 
 ### Coding SQL Statement to Generate reports
 ###### Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses           of the borrowers.
-```
+```SQL Statements
 SELECT BookName, EmpName, EmpEmail, StuName, StuEmail,
 FROM BOOK, EMPLOYEE, STUDENT,
 WHERE EmpID.BOOK = EmpID.Employee
