@@ -62,7 +62,8 @@ The head of the library started by explaining the operating environment of the l
 - Employee Email
 ##### SHELF
 - Shelf ID
-- Shelf Description (A to Z)
+- Date Added
+- Shelf Description (A to ZZ)
 
 ### Database Analyst User Requirement Interpretation
 1. A book can be authored by many authors, and an author can write many books (Many-to-Many relationship).
