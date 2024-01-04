@@ -121,3 +121,12 @@ The head of the library started by explaining the operating environment of the l
 - [See](21.PNG) create and insert query.
 - [See](22.PNG) entity and attributes.
 - [See](23.PNG) new records insert.
+
+### Coding SQL Statement to Generate reports
+###### Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses           of the borrowers.
+```
+SELECT BookName, EmpName, EmpEmail, StuName, StuEmail,
+FROM BOOK, EMPLOYEE, STUDENT,
+WHERE EmpID.BOOK = EmpID.Employee
+AND StuID.BOOK = StuID.Student
+```
