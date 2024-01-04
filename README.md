@@ -127,10 +127,21 @@ The head of the library started by explaining the operating environment of the l
 - [See](23.PNG) new records insert.
 
 ### Coding SQL Statement to Generate reports
-###### Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses           of the borrowers.
+###### Closing staff must submit a daily report listing all borrowed books, including the names, IDs, and email addresses of the borrowers.
 ```SQL Statements
 SELECT BookName, EmpName, EmpEmail, StuName, StuEmail,
 FROM BOOK, EMPLOYEE, STUDENT,
 WHERE EmpID.BOOK = EmpID.Employee
-AND StuID.BOOK = StuID.Student
+AND StuID.BOOK = StuID.Student;
+```
+
+###### At the end of each month, a comprehensive stock inventory is conducted, encompassing all books in the library, whether currently borrowed or on the shelf.
+```SQL Statements
+SELECT BookName, ISBNNUM,
+FROM BOOK;
+```
+
+```SQL Statements
+SELECT COUNT(BookID)
+FROM BOOK;
 ```
