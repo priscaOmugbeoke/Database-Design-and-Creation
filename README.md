@@ -30,7 +30,6 @@ The head of the library started by explaining the operating environment of the l
   
 ###### Yearly Publisher Report:
 - An annual report is compiled at the end of the academic year, providing information on all the publishers associated with the books in our library.
-- An annual report is compiled at the end of the academic year, providing information on all the borrowed books.
 
 ###### Shelf Organization:
 - Our books are systematically arranged based on shelf location for ease of access and organization.
