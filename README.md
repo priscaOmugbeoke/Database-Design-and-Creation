@@ -2,7 +2,19 @@
 
 ![](library-with-books.jpg)
 
-### About the Project
+## Table of Content
+- [Project Overview](#Project-Overview)
+- [Tools Used](#Tools-Used)
+- [User Requirements](#User-Requirements)
+- [Entities and Attributes](#Entities-and-Attributes)
+- [Database Analyst User Requirement Interpretation](#Database-Analyst-User-Requirement-Interpretation)
+- [Database ER Model Diagram](#Database-ER-Model-Diagram )
+- [Creation of the Database](#Creation-of-the-Database)
+- [Creation of the Database Entities Attributes and Values](#Creation-of-the-Database-Entities-Attributes-and-Values)
+- [Coding SQL Statement to Generate reports](#Coding-SQL-Statement-to-Generate-reports)
+
+
+### Project Overview
 A new library has been built by a university, and a library database is needed to track the activities. The goal of this project is to design an entity relationship model for the proposed library database and create a database that stores and tracks data regarding books in the library, the authors of those books, the publishers of those books, and the students and employees who also borrow books from the library.
 
 Note: All values are fictitious and were created with no organization in mind.
@@ -72,7 +84,8 @@ The head of the library started by explaining the operating environment of the l
 4. An employee can borrow at most one book, and a book can be borrowed by exactly one employee (One-to-One relationship for employees).
 5. A book can at the most be on one shelf and at the least one shelf , a shelf can at the most have many books and at the least zero books. (one-to-many relationship).
 
-### The construction of the database using Draw.io Workbench Model Editor
+### Database ER Model Diagram 
+###### The construction of the database using Draw.io Workbench Model Editor
 ![](LibraryDatabaseERDiagram2.jpg)
 
 
@@ -84,7 +97,7 @@ The head of the library started by explaining the operating environment of the l
 
 
 
-### Creation of the Database Entities Attributes and Insertion of Values
+### Creation of the Database Entities Attributes and Values
 ###### See raw sql codes used [here](LibraryDatabaseProjectSql_Codes.txt)
 
 #### Student Table
